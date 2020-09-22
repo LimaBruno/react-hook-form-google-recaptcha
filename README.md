@@ -2,7 +2,7 @@
 
 ## react-hook-form com react-google-recaptcha V2
 
-Validação em formulário de contato utilizando os pacotes **react-hook-form e o react-google-recaptcha (reCAPTCHA v2)**.
+Validação em formulário de contato utilizando os pacotes **react-hook-form e react-google-recaptcha (reCAPTCHA v2)**.
 
 ## Dependências:
   - npm install react-hook-form **OU** yarn add react-hook-form
